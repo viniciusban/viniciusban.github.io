@@ -5,5 +5,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Sleek Jekyll Theme
+title: Vinicius Assef | a.k.a viniciusban. Software developer. He/his. My opinions you read in this blog can change anytime. You don't have to agree with me. Preferrably you shouldn't.
 ---
