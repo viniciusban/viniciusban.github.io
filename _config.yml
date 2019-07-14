@@ -23,7 +23,7 @@ navigation: # Navigation links
 tagline: >
   i have much more questions than answers
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/iron-horse.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: viniciusban@gmail.com # email for form submission
 
