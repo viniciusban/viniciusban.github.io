@@ -1,7 +1,7 @@
 ---
 # published: false
 layout: post
-title: Lessening the entry barrier
+title: Lessening the entrance barrier
 featured-img: high-wall-of-mehrangarh-fort
 summary: Lessons learned from choosing a new platform for my blog.
 categories: [english]
@@ -238,7 +238,7 @@ Usability counts.
 
 Another lesson to me was choosing Jekyll because of the themes. The appearance was important and technical details didn't matter to me. I haven't technically analyzed the 3 candidates. I also didn't analyze their simplicity. I chose what I was seeing. I don't know why, but Ruby products are much more visually appealing than their Python counterparts. Maybe other communities have something to learn with them.
 
-Finally, I want to use simpler things. I also **must** build simpler things with small entry barrier to novices. People are greater, but high barriers make us feel small.
+Finally, I want to use simpler things. I also **must** build simpler things with small entrance barrier to novices. People are greater, but high barriers make us feel small.
 
 > "The simpler I keep things, the better I play."
 >
