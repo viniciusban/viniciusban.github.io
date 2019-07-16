@@ -3,8 +3,8 @@ title: Vinicius Assef # your site title
 author: viniciusban
 description: > # Meta description of Homepage
   This blog have opinions exclusively from myself, a dev for 30+ years, and counting. I really love Python, shellscript and relational databases. I'm currently practicing one of the hardest skills in software development: name things correctly. Keep in touch.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://viniciusban.com/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://viniciusban.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 img_dir: assets/img # by viniciusban
 
