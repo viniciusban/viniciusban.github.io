@@ -6,6 +6,8 @@ description: > # Meta description of Homepage
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://viniciusban.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
+img_dir: assets/img # by viniciusban
+
 # SEO PLUGIN
 social:
   name: viniciusban

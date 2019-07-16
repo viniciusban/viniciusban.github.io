@@ -133,7 +133,7 @@ Nice! Nobody stops me now! Let's head to http://127.0.0.1:4000/fresh/ in my brow
 
 Uh-oh!
 
-![Jekyll connection reset](/assets/img/posts/jekyll-connection-reset.jpg)
+![Jekyll connection reset]({{ site.baseurl }}/{{ site.img_dir }}/posts/jekyll-connection-reset.jpg)
 
 One more Google session to discover that under Vagrant, the command should be:
 
@@ -143,7 +143,7 @@ $ bundle exec jekyll serve --host 0.0.0.0
 
 Finally, the blog homepage showed up!
 
-![Fresh blog](/assets/img/posts/fresh-blog.jpg)
+![Fresh blog]({{ site.baseurl }}/{{ site.img_dir }}/posts/fresh-blog.jpg)
 
 From now on all instructions at Jessica's tutorial worked as expected. I created my Disqus account, uploaded my repository to Github, configured Github Pages and redirected my domain. Everything straight.
 
@@ -171,7 +171,7 @@ Now I'm walking in an unknown path. I left Jessica behind (sorry for that). From
 
 Opening Sleek's README, I faced a weird requirement: **NodeJS (8 or greater)**.
 
-![nodejs wat?!](/assets/img/posts/nodejs-wat.gif)
+![nodejs wat?!]({{ site.baseurl }}/{{ site.img_dir }}/posts/nodejs-wat.gif)
 
 I wanted a modern layout, but in these complicated days we live now, "modern" usually means "bloated". NodeJS?! If it was something simple like JQuery, OK. Probably the pages would use it. But NodeJS?!
 
