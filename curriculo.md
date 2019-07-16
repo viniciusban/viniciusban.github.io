@@ -44,6 +44,8 @@ Idiomas:
 
 Palestras técnicas internas sobre Python, Django e arquitetura de sistemas.
 
+Formação: Tecnólogo em Análise e Desenvolvimento de Sistemas.
+
 Estudos que estão no meu radar: Docker, Go, Celery, Kafka, projetos de API's.
 
 
