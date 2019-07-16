@@ -7,7 +7,6 @@ summary: Lessons learned from choosing a new platform for my blog.
 categories: [english]
 ---
 
-
 When I decided to start my blog anew in a modern platform, I envisioned a simple entrance. Just open the door and enter.
 
 I established a few pre-requisites:
@@ -134,7 +133,7 @@ Nice! Nobody stops me now! Let's head to http://127.0.0.1:4000/fresh/ in my brow
 
 Uh-oh!
 
-![Jekyll connection reset](/assets/img/posts/jekyll-connection-reset.png)
+![Jekyll connection reset](/assets/img/posts/jekyll-connection-reset.jpg)
 
 One more Google session to discover that under Vagrant, the command should be:
 
@@ -144,7 +143,7 @@ $ bundle exec jekyll serve --host 0.0.0.0
 
 Finally, the blog homepage showed up!
 
-![Fresh blog](/assets/img/posts/fresh-blog.png)
+![Fresh blog](/assets/img/posts/fresh-blog.jpg)
 
 From now on all instructions at Jessica's tutorial worked as expected. I created my Disqus account, uploaded my repository to Github, configured Github Pages and redirected my domain. Everything straight.
 
