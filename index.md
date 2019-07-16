@@ -6,4 +6,12 @@
 #
 layout: default
 title: Vinicius Assef | a.k.a viniciusban. Software developer. He/his. My opinions you read in this blog can change anytime. You don't have to agree with me. Preferrably you shouldn't.
+taglines:
+  - i have much more questions than answers
+  - name things properly
+  - take care of your knees
+  - programming is fun, but shipping is your job
+  - \"the road to hell is paved with works-in-progress\" (Philip Roth)
+  - sleep well
 ---
+
