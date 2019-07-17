@@ -7,9 +7,11 @@ permalink: /curriculo/
 # Identificação
 
 - Vinicius Belchior Assef Neto
+
 - Contatos:
   - email: viniciusban@gmail.com
-  - Telegram: http://t.me/viniciusban
+  - Telegram: [http://t.me/viniciusban](http://t.me/viniciusban)
+
 - Perfis:
   - [Twitter - http://twitter.com/viniciusban](http://twitter.com/viniciusban)
   - [Github - http://github.com/viniciusban](http://github.com/viniciusban)
