@@ -9,7 +9,7 @@ permalink: /curriculo/
 - Vinicius Belchior Assef Neto
 - Contatos:
   - email: viniciusban@gmail.com
-  - (21) 98343-4330
+  - Telegram: http://t.me/viniciusban
 - Perfis:
   - [Twitter - http://twitter.com/viniciusban](http://twitter.com/viniciusban)
   - [Github - http://github.com/viniciusban](http://github.com/viniciusban)
