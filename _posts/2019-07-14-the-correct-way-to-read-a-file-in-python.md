@@ -9,7 +9,7 @@ categories: [english]
 
 There are a plethora of examples out there teaching you some wrong way to read a file in Python. Be warned.
 
-Most of them doesn't close the file when an error occurs and several don't close the file at all.
+Most of them don't close the file when an error occurs and several don't close the file at all.
 
 Often they rely on Python to close the file when the program ends (what certainly happens), but if you get used to copy those examples, you will feed the bad habit to open files in an insecure way.
 
