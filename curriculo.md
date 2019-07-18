@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Currículo
+title: Currículo de Vinicius Assef
 permalink: /curriculo/
+description: Minha experiência profissional
 ---
 
 # Identificação
