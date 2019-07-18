@@ -1,6 +1,7 @@
 ---
 layout: page
 title: I am Vinicius
+description: About Vinicius Assef
 permalink: /about/
 ---
 

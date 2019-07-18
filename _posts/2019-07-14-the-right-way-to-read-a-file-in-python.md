@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The right way to read a file in Python
+description: There are lots of examples teaching you how to read a file in Python. What are they missing?
 featured-img: blur-children-class-448877
 categories: [english]
 ---

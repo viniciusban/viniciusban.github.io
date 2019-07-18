@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+description: Keep in touch with me
 permalink: /contact/
 ---
 
