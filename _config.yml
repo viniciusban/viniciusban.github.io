@@ -1,5 +1,7 @@
 # SITE CONFIGURATION
 title: Vinicius Assef # your site title
+description: > # Default Meta description for pages without "description" in front matter.
+  These are my opinions acquired through my experience, but they can change.
 author: viniciusban
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://viniciusban.com" # the base hostname & protocol for your site, e.g. http://example.com

@@ -6,8 +6,6 @@
 #
 layout: default
 title: Vinicius Assef (viniciusban) | Software developer
-description: > # Default Meta description for pages without "description" in front matter.
-  These are my opinions acquired during 30+ years of dev experience and counting, but they can change.
 taglines:
   - i have much more questions than answers
   - name things properly

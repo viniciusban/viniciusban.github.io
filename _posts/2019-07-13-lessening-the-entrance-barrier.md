@@ -4,7 +4,6 @@ layout: post
 title: Lessening the entrance barrier
 featured-img: high-wall-of-mehrangarh-fort
 summary: Lessons learned from choosing a new platform for my blog.
-description: Lessons learned from choosing a new platform for my blog.
 categories: [english]
 ---
 
