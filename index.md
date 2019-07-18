@@ -5,7 +5,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Vinicius Assef (viniciusban) | Software developer. He/his. My opinions you read in this blog can change anytime. You don't have to agree with me. Preferrably you shouldn't.
+title: Vinicius Assef (viniciusban) | Software developer
+description: > # Default Meta description for pages without "description" in front matter.
+  These are my opinions acquired during 30+ years of dev experience and counting, but they can change.
 taglines:
   - i have much more questions than answers
   - name things properly
