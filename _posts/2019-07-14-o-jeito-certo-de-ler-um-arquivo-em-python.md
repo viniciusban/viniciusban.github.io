@@ -1,19 +1,18 @@
 ---
 layout: post
 title: O jeito certo de ler um arquivo em Python
+summary: Existem muitos exemplos te ensinando a ler um arquivo em Python. O que há de errado com eles?
 description: Existem muitos exemplos te ensinando a ler um arquivo em Python. O que há de errado com eles?
 featured-img: blur-children-class-448877
 categories: [pt-br]
 lang: pt_BR
 ---
 
-Existe um mundo de exemplos por aí te ensinando um jeito errado de ler um arquivo em Python.
+Existem muitos exemplos te ensinando a ler um arquivo em Python. O que há de errado com eles?
 
-Afinal de contas, qual é o problema?
+A maioria dos exemplos não fecha o arquivo quando ocorre um erro e vários nunca fecham o arquivo.
 
-A maioria dos exemplos não fecha o arquivo quando ocorre um erro e alguns deles nunca fecham o arquivo.
-
-Frequentemente eles confiam que o Python vai fechar o arquivo quando o programa terminar, mas se você se acostumar a copiar esses exemplos, alimentará o péssimo hábito de abrir arquivos de uma forma insegura.
+Frequentemente eles confiam que o Python vai fechar o arquivo quando o programa terminar (e vai mesmo), mas se você se acostumar a copiar esses exemplos, alimentará o péssimo hábito de abrir arquivos de uma forma insegura.
 
 Dito isto, a maneira correta de abrir qualquer arquivo em Python é:
 
