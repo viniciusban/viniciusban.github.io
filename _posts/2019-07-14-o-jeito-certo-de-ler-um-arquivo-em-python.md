@@ -3,6 +3,7 @@ layout: post
 title: O jeito certo de ler um arquivo em Python
 featured-img: blur-children-class-448877
 categories: [pt-br]
+lang: pt_BR
 ---
 
 Existe um mundo de exemplos por aí te ensinando um jeito errado de ler um arquivo em Python.

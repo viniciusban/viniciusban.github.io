@@ -3,6 +3,7 @@ layout: page
 title: Currículo de Vinicius Assef
 permalink: /curriculo/
 description: Minha experiência profissional
+lang: pt_BR
 ---
 
 # Identificação
