@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
 title: Vinicius Assef # your site title
 author: viniciusban
-description: > # Meta description of Homepage
-  This blog have opinions exclusively from myself, a dev for 30+ years, and counting. I really love Python, shellscript and relational databases. I'm currently practicing one of the hardest skills in software development: name things correctly. Keep in touch.
+description: > # Default Meta description for pages without "description" in front matter.
+  These are my opinions acquired from 30+ years of dev experience, and counting. Python is nice, but the best part is its community.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://viniciusban.com" # the base hostname & protocol for your site, e.g. http://example.com
 
