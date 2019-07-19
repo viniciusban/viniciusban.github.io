@@ -9,6 +9,6 @@ You can [call me on Telegram](http://t.me/viniciusban) or [send me an email](mai
 
 Let's chat or discuss our next project.
 
-![whooo? me?](../assets/img/posts/whooo-me.gif)
+![whooo? me?]({{ site.baseurl }}{{ site.img_dir }}/posts/whooo-me.gif)
 
 Why not?
