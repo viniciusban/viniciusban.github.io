@@ -1,12 +1,13 @@
 # SITE CONFIGURATION
-title: Vinicius Assef # your site title
-description: > # Default Meta description for pages without "description" in front matter.
-  These are my opinions acquired through my experience, but they can change.
+title: Vinicius Assef
 author: viniciusban
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://viniciusban.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://viniciusban.com"
+baseurl: ""
+img_dir: "/assets/img"  # by viniciusban
 
-img_dir: assets/img # by viniciusban
+description: >
+  These are my opinions acquired through my experience, but they can change.
+
 
 # SEO PLUGIN
 social:
@@ -26,16 +27,16 @@ navigation: # Navigation links
 tagline: >
   i have much more questions than answers
 
-hero_img: posts/iron-horse.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/iron-horse.jpg
 
 email: viniciusban@gmail.com # email for form submission
 
-twitter_username: viniciusban # replace with your_twitter_username or comment to remove link from footer
-github_username:  viniciusban # replace with your_github_username or comment to remove link from footer
+twitter_username: viniciusban
+github_username:  viniciusban
 # instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
-  shortname: viniciusban # to enable comments replace with your_disqus_shortname
+  shortname: viniciusban
 
 google_tag_manager: UA-143818570-1
 
