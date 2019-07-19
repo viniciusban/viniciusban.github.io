@@ -11,7 +11,7 @@
   <link rel="manifest" href="{{ '/assets/img/icons/manifest.json?v=qA3OXqyw77' | relative_url }}">
   <link rel="mask-icon" href="{{ '/assets/img/icons/safari-pinned-tab.svg?v=qA3OXqyw77' | relative_url }}" color="#5bbad5">
   <!--[if IE]><link rel="shortcut icon" href="/assets/img/icons/favicon.ico?v=qA3OXqyw77"><![endif]-->
-  <link rel="shortcut icon" href="{{ '/assets/img/icons/favicon.ico?v=qA3OXqyw77' | relative_url }}">
+  <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}{{ site.img_dir }}/icons/favicon.ico?v=qA3OXqyw77">
   {% if page.featured-img %}
     <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.img_dir }}/posts/{{page.featured-img}}_placehold.jpg">
   {% else %}
