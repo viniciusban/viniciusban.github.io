@@ -12,12 +12,12 @@ lang: pt_BR
 
 - Contatos:
   - email: viniciusban@gmail.com
-  - Telegram: [http://t.me/viniciusban](http://t.me/viniciusban)
+  - Telegram: http://t.me/viniciusban
 
 - Perfis:
-  - [Twitter - http://twitter.com/viniciusban](http://twitter.com/viniciusban)
-  - [Github - http://github.com/viniciusban](http://github.com/viniciusban)
-  - [Meu site pessoal - http://viniciusban.com](http://viniciusban.com)
+  - Twitter: http://twitter.com/viniciusban
+  - Github: http://github.com/viniciusban
+  - Meu site pessoal: http://viniciusban.com
 
 
 # Visão geral atual
@@ -168,7 +168,7 @@ Contribuições com projetos open-source:
 - Web2py
 - ZURB Foundation for Sites
 
-Repositórios no github: [http://github.com/viniciusban](http://github.com/viniciusban)
+Repositórios no github: http://github.com/viniciusban
 
 Editor de interface modo texto, escrito em C, gerando código fonte em Pascal e em C.
 
