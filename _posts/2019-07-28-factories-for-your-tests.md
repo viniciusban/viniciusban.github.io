@@ -248,4 +248,4 @@ Also, we learned how to write a powerful factory class that doesn't mutate state
 
 Last but not least, we saw some Python tricks (classmethod, kwargs, etc.) that enable a powerful and simple codebase.
 
-Note: This post is based on the Chapter Constructing Complex Test Data of the great book [Growing Objected-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627/), by Steve Freeman and Nat Pryce.
+Note: This post is based on the Chapter Constructing Complex Test Data of the great book [Growing Objected-Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com), by [Steve Freeman](https://twitter.com/sf105) and [Nat Pryce](http://www.natpryce.com).
