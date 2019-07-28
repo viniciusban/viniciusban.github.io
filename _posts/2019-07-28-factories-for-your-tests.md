@@ -4,6 +4,12 @@ title: A Pythonic approach to produce test data
 summary: Things can become complicated when generating test data, but Python helps us achieve a very simple way.
 featured-img: blue-sky-chimney-clouds-208714
 categories: [english]
+tags:
+  - english
+  - python
+  - test
+  - tests
+  - factory
 ---
 
 You write automated tests for your system and realize many fixtures (a.k.a, test data) are similar to each other. Then, you decide to write functions to produce them in a standardized way. How would you implement these factories? Should you use simple functions or would classes be better in this case?
