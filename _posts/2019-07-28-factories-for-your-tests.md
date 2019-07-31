@@ -95,7 +95,7 @@ mickey = UserTestFactory(name="Mickey Mouse", profile="master")
 What do these users above have in common? All of them are "masters". How about creating them without repeating that `profile="master"` part?
 
 
-## What we are aiming at?
+## What we are aiming to?
 
 It would be nice to create those instances of `User` this way:
 
