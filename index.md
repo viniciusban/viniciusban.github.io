@@ -34,5 +34,7 @@ taglines:
   - why so many big guys in the programming industry are using Ruby?
   - \"every accomplishment starts with the decision to try\" (J. F. Kennedy)
   - first aim, then shoot
+  - \"history started before Google IPO\" (Niall Ferguson)
+  - just because I shouldn\'t, doesn\'t mean I can\'t
 ---
 
