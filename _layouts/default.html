@@ -47,11 +47,7 @@ layout: compress
 		<script>
 			var phrases = [
 				{% for phrase in page.taglines %}
-					{% if phrase contains '"' %}
-						'{{ phrase }}',
-					{% else %}
-						"{{ phrase }}",
-					{% endif %}
+					"{{ phrase }}",
 				{% endfor %}
 			"", ];
 			var i = Math.floor(Math.random() * Math.floor(phrases.length-1));
