@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vinicius Assef's resume
+title: Vinicius Assef's résumé
 permalink: /resume/
 description: My professional experience
 ---
