@@ -82,13 +82,20 @@ Liderando equipe de desenvolvimento com 4 pessoas, treinando e dando apoio diár
 Conduzindo interação com usuários e levantamento de requisitos, especificando sistemas e desenvolvendo arquitetura de aplicações em conjunto com a equipe de infraestrutura.
 
 
-## 2018 até hoje: Codevance - Remoto
+## 2018 até hoje (intermitente): Codevance - Remoto
 
 Empresa prestadora de serviços de desenvolvimento e manutenção de sistemas.
 
 Discador automático para clientes devedores. Com base em um movimento periódico e na disponibilidade dos atendentes de cobrança, fazemos interação com o PABX virtual para contactar o cliente e trabalhar a recuperação da dívida, obedecendo regras de prioridade e agendamento. Tecnologias e métodos: Python, Pyramid, SQLAlchemy, Celery, MongoDB, Docker, Scrum, Testes automatizados.
 
 Wrapper de API para reservas de hotel. Projeto para um fornecedor de reserva de viagens e hospedagem para clientes corporativos. Dada a entrada de um novo fornecedor de reserva de hotel, tratamos do encapsulamento das APIs para uniformizar a interação da aplicação. Tecnologias e métodos: Python, Testes automatizados, Scrum.
+
+
+## 2019: Gerasoft - Remoto
+
+Empresa desenvolvedora de sistemas.
+
+Projeto de interação com o e-Social do Governo Federal, módulo de Segurança do Trabalho. Cadastramento de acidentes do trabalho e interface com um integrador externo, que se comunica com o e-Social. Tecnologias: Python, Django e Postgres.
 
 
 ## 2013 até 2014: LabSynapse - Rio de Janeiro
