@@ -18,6 +18,7 @@ lang: pt_BR
   - Twitter: <http://twitter.com/viniciusban>
   - Github: <http://github.com/viniciusban>
   - Meu site pessoal: <http://viniciusban.com>
+  - Blog com textos técnicos: <http://awesomemess.com>
 
 
 # Visão geral atual
@@ -33,11 +34,11 @@ Linguagens:
 - Javascript (pouco ainda, mas aprimorando)
 - HTML e CSS
 
-Banco de dados: PostgreSQL.
+Banco de dados: PostgreSQL, MongoDB.
 
-Framework: Django.
+Frameworks Python: Django e Pyramid.
 
-Métodos: Testes automatizados, princípios SOLID.
+Métodos: Testes automatizados, princípios SOLID, Scrum.
 
 Idiomas:
 
@@ -49,7 +50,7 @@ Palestras técnicas internas sobre Python, Django e arquitetura de sistemas.
 
 Formação: Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-Estudos que estão no meu radar: Docker, Go, Celery, Kafka, projetos de API's.
+Estudos que estão no meu radar: Docker, Go, Celery, Kafka, aprofundamento em projeto de API's.
 
 
 # Conhecimentos que tenho/já usei, mas não uso atualmente no trabalho
