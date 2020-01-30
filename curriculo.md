@@ -83,6 +83,8 @@ Conduzindo interação com usuários e levantamento de requisitos, especificando
 
 ## 2018 até hoje: Codevance - Remoto
 
+Empresa prestadora de serviços de desenvolvimento e manutenção de sistemas.
+
 Discador automático para clientes devedores. Com base em um movimento periódico e na disponibilidade dos atendentes de cobrança, fazemos interação com o PABX virtual para contactar o cliente e trabalhar a recuperação da dívida, obedecendo regras de prioridade e agendamento. Tecnologias e métodos: Python, Pyramid, SQLAlchemy, Celery, MongoDB, Docker, Scrum, Testes automatizados.
 
 Wrapper de API para reservas de hotel. Projeto para um fornecedor de reserva de viagens e hospedagem para clientes corporativos. Dada a entrada de um novo fornecedor de reserva de hotel, tratamos do encapsulamento das APIs para uniformizar a interação da aplicação. Tecnologias: Python, Testes automatizados, Scrum.
