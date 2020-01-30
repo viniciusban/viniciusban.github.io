@@ -44,7 +44,6 @@ Idiomas:
 - Inglês (leitura, escrita e conversação)
 - Espanhol (leitura e bem pouca conversação)
 - Hebraico (alfabetização)
-- Francês (iniciando)
 
 Palestras técnicas internas sobre Python, Django e arquitetura de sistemas.
 
@@ -55,13 +54,10 @@ Estudos que estão no meu radar: Docker, Go, Celery, Kafka, projetos de API's.
 
 # Conhecimentos que tenho/já usei, mas não uso atualmente no trabalho
 
-- SQLAlchemy
 - Flask
-- Pyramid
 - Web2py
 - PHP
 - MySQL
-- Docker (iniciante)
 - Elasticsearch
 
 
@@ -83,6 +79,13 @@ Desenvolvendo sistema para captar documentos de produções científicas em font
 Liderando equipe de desenvolvimento com 4 pessoas, treinando e dando apoio diário sobre Python, Django, TDD, arquitetura incremental e métodos ágeis.
 
 Conduzindo interação com usuários e levantamento de requisitos, especificando sistemas e desenvolvendo arquitetura de aplicações em conjunto com a equipe de infraestrutura.
+
+
+## 2018 até hoje: Codevance - Remoto
+
+Discador automático para clientes devedores. Com base em um movimento periódico e na disponibilidade dos atendentes de cobrança, fazemos interação com o PABX virtual para contactar o cliente e trabalhar a recuperação da dívida, obedecendo regras de prioridade e agendamento. Tecnologias e métodos: Python, Pyramid, SQLAlchemy, Celery, MongoDB, Docker, Scrum, Testes automatizados.
+
+Wrapper de API para reservas de hotel. Projeto para um fornecedor de reserva de viagens e hospedagem para clientes corporativos. Dada a entrada de um novo fornecedor de reserva de hotel, tratamos do encapsulamento das APIs para uniformizar a interação da aplicação. Tecnologias: Python, Testes automatizados, Scrum.
 
 
 ## 2013 até 2014: LabSynapse - Rio de Janeiro
