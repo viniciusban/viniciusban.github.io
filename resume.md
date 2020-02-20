@@ -5,20 +5,21 @@ permalink: /resume/
 description: My professional experience
 ---
 
-# Identification
+# Vinicius Belchior Assef Neto's résumé
 
-- Vinicius Belchior Assef Neto.
+I live in Brazil, and I was born here. Portuguese is my mother tongue.
 
-- I am Brazilian, I live in Brazil and speak Portuguese.
+Contacts:
 
-- Contacts:
-  - email: viniciusban@gmail.com
+  - Email: [viniciusban@gmail.com](mailto:viniciusban@gmail.com)
   - Telegram: <http://t.me/viniciusban>
 
-- Social Profiles:
+Internet presence:
+
   - Twitter: <http://twitter.com/viniciusban>
   - Github: <http://github.com/viniciusban>
-  - My website: <http://viniciusban.com>
+  - My technical blog: <http://awesomemess.com>
+  - My personal website: <http://viniciusban.com>
 
 
 # Profile
