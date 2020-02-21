@@ -26,7 +26,7 @@ Internet presence:
 
 I have a technology degree in System Analysis and Development.
 
-As a software developer conscious of the lifetime of a project, I like to interact with users, gather requirements, design, document and implement solutions, and, last but not least, deliver to production.
+Teams can take advantage of my ability to interact with clients to understand their needs and map them to system requirements. I am also capable of designing, documenting, implementing and delivering software do production.
 
 For the last 8 years I have been working mostly in the Python ecosystem and therefore I am used to several tools, like:
 
@@ -40,19 +40,18 @@ Besides Python, I also feel comfortable working with:
   - Shell script and the Linux command line;
   - Javascript.
 
-I think disciplines and methodologies are core to software development, that is why I use some that I consider important, such as:
+I think disciplines and methodologies are core to software development, this is why I use some I consider important, such as:
 
   - Automated tests (first or after, but mostly TDD);
   - SOLID principles.
 
 Since we must not stop learning, some prospective technologies and methods come to notice for me, like: Go language, going deeper into REST API, Behaviour Driven Development (BDD), Docker, AWS cloud.
 
-I can also communicate in a few languages:
+I can also communicate in a few languages, in order of competence:
 
 - Portuguese (my native language)
 - English (reading, writing and intermediate conversation)
 - Spanish (reading, beginner writing)
-- Hebrew (literate)
 
 
 # Skills I have but aren't applicable in my current job
