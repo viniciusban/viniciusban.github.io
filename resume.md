@@ -26,7 +26,7 @@ Internet presence:
 
 I have a technology degree in System Analysis and Development.
 
-Teams can take advantage of my ability to interact with clients to understand their needs and map them to system requirements. I am also capable of designing, documenting, implementing and delivering software to production.
+Teams can take advantage of my ability to interact with clients to understand their needs and map them to system requirements. I am also capable of designing, documenting, implementing, and delivering software to production.
 
 For the last 8 years I have been working mostly in the Python ecosystem and therefore I am used to several tools, like:
 
