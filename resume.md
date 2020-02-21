@@ -50,7 +50,7 @@ Since we must not stop learning, some prospective technologies and methods come 
 I can also communicate in a few languages, in order of competence:
 
 - Portuguese (my native language)
-- English (reading, writing and intermediate conversation)
+- English (reading, writing, and intermediate conversation)
 - Spanish (reading, beginner writing)
 
 
