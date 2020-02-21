@@ -22,31 +22,32 @@ Internet presence:
   - My personal website: <http://viniciusban.com>
 
 
-# Profile
+# Technical Profile
 
-I am working as a fullstack developer, interacting with users, gathering
-requirements, designing and implementing solutions, and rolling them out.
+I have a technology degree in System Analysis and Development.
 
-Computer Languages:
+As a software developer conscious of the lifetime of a project, I like to interact with users, gather requirements, design, document and implement solutions, and, last but not least, deliver to production.
 
-- Python
-- Shell script
-- Javascript (beginner, but improving)
-- HTML e CSS
+For the last 8 years I have been working mostly in the Python ecosystem and therefore I am used to several tools, like:
 
-Database: PostgreSQL.
+  - Web Frameworks: Django, Pyramid, and Web2py;
+  - Databases and datastores: PostgreSQL, MySQL, MongoDB, and Redis;
+  - ORM: SQLAlchemy;
+  - Task queue: Celery.
 
-Framework: Django.
+Besides Python, I also feel comfortable working with:
 
-Methods: Automated tests, SOLID principles.
+  - Shell script and the Linux command line;
+  - Javascript.
 
-Helping: Internal technical lectures about Python, Django and system architecture.
+I think disciplines and methodologies are core to software development, that is why I use some that I consider important, such as:
 
-Education degree: System Analysis and Development Technologist.
+  - Automated tests (first or after, but mostly TDD);
+  - SOLID principles.
 
-Studies on my radar: Go, Celery, Kafka, digging deep into API's.
+Since we must not stop learning, some prospective technologies and methods come to notice for me, like: Go language, going deeper into REST API, Behaviour Driven Development (BDD), Docker, AWS cloud.
 
-Languages:
+I can also communicate in a few languages:
 
 - Portuguese (my native language)
 - English (reading, writing and intermediate conversation)
