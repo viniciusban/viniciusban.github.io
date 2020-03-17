@@ -53,9 +53,9 @@ Compartilhamento de informação: costumo ministrar palestras técnicas sobre Py
 O que estou estudando/pretendo estudar em breve: Filas e mensageria, Infra (AWS, Docker), projeto de API (segurança, evolução, desempenho), Escalabilidade de processos.
 
 
-# Conhecimentos que tenho/já usei, mas não uso atualmente no trabalho
+# Outros conhecimentos técnicos que tenho
 
-- Flask
+- Pyramid
 - Web2py
 - PHP
 - PostgreSQL
