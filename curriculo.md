@@ -34,9 +34,9 @@ Linguagens:
 - Javascript (pouco ainda, mas aprimorando)
 - HTML e CSS
 
-Banco de dados: PostgreSQL, MongoDB.
+Banco de dados: MySQL.
 
-Frameworks Python: Django e Pyramid.
+Framework Python: Django.
 
 Métodos: Testes automatizados, princípios SOLID, Scrum.
 
@@ -46,11 +46,11 @@ Idiomas:
 - Espanhol (leitura e bem pouca conversação)
 - Hebraico (alfabetização)
 
-Palestras técnicas internas sobre Python, Django e arquitetura de sistemas.
-
 Formação: Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-Estudos que estão no meu radar: Docker, Go, Celery, Kafka, aprofundamento em projeto de API's.
+Compartilhamento de informação: costumo ministrar palestras técnicas sobre Python, Django e arquitetura de sistemas.
+
+O que estou estudando/pretendo estudar em breve: Filas e mensageria, Infra (AWS, Docker), projeto de API (segurança, evolução, desempenho), Escalabilidade de processos.
 
 
 # Conhecimentos que tenho/já usei, mas não uso atualmente no trabalho
@@ -58,8 +58,10 @@ Estudos que estão no meu radar: Docker, Go, Celery, Kafka, aprofundamento em pr
 - Flask
 - Web2py
 - PHP
-- MySQL
+- PostgreSQL
 - Elasticsearch
+- Redis
+- Docker
 
 
 ---
@@ -82,11 +84,20 @@ Liderando equipe de desenvolvimento com 4 pessoas, treinando e dando apoio diár
 Conduzindo interação com usuários e levantamento de requisitos, especificando sistemas e desenvolvendo arquitetura de aplicações em conjunto com a equipe de infraestrutura.
 
 
-## 2018 até hoje (intermitente): Codevance - Remoto
+## A partir de fevereiro/2020: Associação Brasileira Rede Unida - Remoto
+
+Associação para formação de profissionais de saúde.
+
+Sistema interno para gerenciamento de evento. A partir dos trabalhos submetidos e aprovados pela banca avaliadora, pessoas inscritas no congresso receberão suas credenciais, suas declarações de participação no evento e saberão como e onde participar das reuniões. Tecnologias: Python, Django, MySQL.
+
+Estou trabalhando na construção de relatórios e rotinas de apoio interno, para viabilizar a organização e gerenciamento do evento.
+
+
+## 2018 até março/2020: Codevance - Remoto
 
 Empresa prestadora de serviços de desenvolvimento e manutenção de sistemas.
 
-Discador automático para clientes devedores. Com base em um movimento periódico e na disponibilidade dos atendentes de cobrança, fazemos interação com o PABX virtual para contactar o cliente e trabalhar a recuperação da dívida, obedecendo regras de prioridade e agendamento. Tecnologias e métodos: Python, Pyramid, SQLAlchemy, Celery, MongoDB, Docker, Scrum, Testes automatizados.
+Discador automático para clientes devedores. Com base em um movimento periódico e na disponibilidade dos atendentes de cobrança, fazemos interação com o PABX virtual para contactar o cliente e trabalhar a recuperação da dívida, obedecendo regras de prioridade e agendamento. Tecnologias e métodos: Python, Pyramid, SQLAlchemy, Celery, MongoDB, Redis, Docker, Scrum, Testes automatizados.
 
 Wrapper de API para reservas de hotel. Projeto para um fornecedor de reserva de viagens e hospedagem para clientes corporativos. Dada a entrada de um novo fornecedor de reserva de hotel, tratamos do encapsulamento das APIs para uniformizar a interação da aplicação. Tecnologias e métodos: Python, Testes automatizados, Scrum.
 
