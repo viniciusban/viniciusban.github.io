@@ -48,6 +48,11 @@ There is a private site for subscribed customers, to help them control enrollmen
 
 Tools and methodologies: Python, Scrapy, Web2py, Scrum.
 
+
+## Authorization workflow for vacation request
+
+SIGRH
+
 ---
 
 I live in Brazil, and I was born here. Portuguese is my mother tongue.
