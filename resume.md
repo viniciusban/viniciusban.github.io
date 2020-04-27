@@ -50,6 +50,7 @@ There is a private site for subscribed customers, to help them control enrollmen
 
 Tools and methodologies: Python, Scrapy, Web2py, Scrum.
 
+<!--
 
 ## Authorization workflow for vacation request
 
@@ -222,3 +223,4 @@ Github repos: <http://github.com/viniciusban>
 
 A text-mode interface editor, written in C, generating source code in Pascal and C.
 
+-->
