@@ -122,7 +122,7 @@ I can also communicate in a few languages, in order of competence:
 ---
 
 
-# Professional experiences
+# Professional experience
 
 ## since 2014 (current): Oswaldo Cruz Foundation (contractor) - Rio de Janeiro (Brazil)
 
