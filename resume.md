@@ -31,6 +31,15 @@ There are two kinds of calls: automatic and scheduled calls. There are, also, so
 Tools and methodologies used: Python, Pyramid, Postgres, MongoDB, Redis streams, Celery, Scrum, TDD, code review, Jira.
 
 
+### Wrapper over hotel reservation APIs
+
+I developed an API wrapper for hotel availability search and reservation.
+
+The system interacted with two hotel room providers and hired the third one. My job was to develop an internal library as a single interface between the system and those tree providers.
+
+Tools and methodologies: Python, TDD, Scrum, Github issues.
+
+
 ---
 
 I live in Brazil, and I was born here. Portuguese is my mother tongue.
