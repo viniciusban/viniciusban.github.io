@@ -20,6 +20,17 @@ Additionally I have 30+ years of experience working in corporate systems. Busine
 I am able to communicate using written and spoken English. Portuguese is my mother tongue. Currently, I live in Brazil. Our time zone here is GMT -3 hours. We do not have DST.
 
 
+## Recent projects
+
+### Active debt collection through PBX integration ##
+
+This system makes telephone calls to debtor customers and redirect them to human attendants.
+
+There are two kinds of calls: automatic and scheduled calls. There are, also, some control points, like: attendant availability, whitelisted/blacklisted phone numbers, shielded customers, etc.
+
+Tools and methodologies used: Python, Pyramid, Postgres, MongoDB, Redis streams, Celery, Scrum, TDD, code review, Jira.
+
+
 ---
 
 I live in Brazil, and I was born here. Portuguese is my mother tongue.
