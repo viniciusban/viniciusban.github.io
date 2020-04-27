@@ -53,6 +53,11 @@ Tools and methodologies: Python, Scrapy, Web2py, Scrum.
 
 SIGRH
 
+
+## Record and upload videos to Youtube
+
+X4
+
 ---
 
 I live in Brazil, and I was born here. Portuguese is my mother tongue.
