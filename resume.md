@@ -40,6 +40,14 @@ The system interacted with two hotel room providers and hired the third one. My 
 Tools and methodologies: Python, TDD, Scrum, Github issues.
 
 
+### Gather calls for scientific research funding
+
+Gather anouncements from different sources to allow scientists search the calls for scientific research funding in one single location.
+
+There is a private site for subscribed customers, to help them control enrollment on those calls and follow along with funding processes.
+
+Tools and methodologies: Python, Scrapy, Web2py, Scrum.
+
 ---
 
 I live in Brazil, and I was born here. Portuguese is my mother tongue.
