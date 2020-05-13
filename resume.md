@@ -11,7 +11,7 @@ description: My professional experience
 
 I am a software developer with 5+ years working with Python, Django, and Postgres. I also use queues, batch processing and I have made a lot of integrations between systems.
 
-Additionally I have 30+ years of experience working in corporate systems. Business areas I had worked in:
+Additionally I have 30+ years of experience developing and maintaining corporate systems. Business areas I had worked in:
 
 - Telecom
 - Energy
