@@ -17,7 +17,7 @@ Additionally I have 30+ years of experience developing and maintaining corporate
 - Energy
 - Steel
 
-I am able to communicate using written and spoken English. Portuguese is my mother tongue. Currently, I live in Brazil. Our time zone here is GMT -3 hours. We do not have DST.
+I am able to communicate in written and spoken English. Portuguese is my mother tongue. Currently, I live in Brazil. Our time zone here is GMT -3 hours. We do not have DST.
 
 Contact: viniciusban@gmail.com
 
