@@ -5,19 +5,13 @@ permalink: /resume/
 description: My professional experience
 ---
 
-## Overview
+## Overview ##
 
-I am a software developer with 5+ years working with Python, Django, and Postgres. I also use queues, batch processing and I have made a lot of integrations between systems.
+5+ years in Python, Django, shell script and SQL databases. Lately I have been delivering/consuming REST APIs.
 
-Additionally I have 30+ years of experience developing and maintaining corporate systems. Business areas I had worked in:
+I have worked in Telecom, Energy, Fintech, Inventory, Scientific research, and Health, for the government, big corporations and small startups.
 
-- Telecom
-- Energy
-- Steel
-
-I am able to communicate in written and spoken English. Portuguese is my mother tongue. Currently, I live in Brazil. Our time zone here is GMT -3 hours. We do not have DST.
-
-Contact: viniciusban@gmail.com
+Contact me at viniciusban@gmail.com
 
 
 ## Recent projects
