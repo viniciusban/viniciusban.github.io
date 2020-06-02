@@ -5,8 +5,6 @@ permalink: /resume/
 description: My professional experience
 ---
 
-# Vinicius Assef's résumé
-
 ## Overview
 
 I am a software developer with 5+ years working with Python, Django, and Postgres. I also use queues, batch processing and I have made a lot of integrations between systems.
