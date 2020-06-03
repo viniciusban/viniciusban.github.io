@@ -12,14 +12,14 @@ Eu desenvolvo sistemas para web, com foco no backend.
 
 5+ anos em Python, Django, shell script e bancos de dados SQL. Ultimamente eu tenho desenvolvido/consumido APIs REST.
 
-I trabalhei em Telecom, Energia, Fintech, Estoque, Pesquisa científica, e Saúde, para entidades do Governo, grandes empresas e pequenas startups.
+Eu trabalhei em Telecom, Energia, Fintech, Estoque, Pesquisa científica, e Saúde, para entidades do Governo, grandes empresas e pequenas startups.
 
-Eu me comunico bem em Inglês escrito e falado. Entre em contato pelo endereço viniciusban@gmail.com.
+Me comunico bem em Inglês escrito e falado. Entre em contato pelo endereço viniciusban@gmail.com.
 
 
 ## Projetos Recentes ##
 
-Eu escrevi parte do backend (Python, Pyramid, SQLAlchemy, Postgres, MongoDB, Redis e Celery tasks/beats) de um **sistema de discagem telefônica automática** para cobrança de débitos usando integração com PABX virtual, em uma equipe de 3 desenvolvedores. O sistema identificava automaticamente números de telefone "bons" e "ruins", mantendo o cadastro dos clientes atualizado. Além disso, aumentou a proporção de cobrança fazendo chamadas conforme a disponibiliade do cliente e reduziu a tempo de espera dos atendentes.
+Eu escrevi parte do backend (Python, Pyramid, SQLAlchemy, Postgres, MongoDB, Redis e Celery tasks/beats) de um **sistema de discagem telefônica automática** para cobrança de débitos usando integração com PABX virtual, em uma equipe de 3 desenvolvedores. O sistema identificava automaticamente números de telefone "bons" e "ruins", mantendo o cadastro dos clientes atualizado. Além disso, aumentou a proporção de cobrança fazendo chamadas conforme a disponibiliade do cliente e reduziu o tempo de espera dos atendentes.
 
 Único desenvolvedor de uma **biblioteca para encapsular três APIs de reserva de hotéis** para pesquisar e reservar acomodações, em Python. A biblioteca fornecia uma interface única que manipulava os 3 fornecedores, simplificando o código do sistema principal, liberando os desenvolvedores e permitindo que eles focassem na melhoria do sistema.
 
