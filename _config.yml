@@ -32,7 +32,7 @@ hero_img: posts/iron-horse.jpg
 email: viniciusban@gmail.com # email for form submission
 
 twitter_username: viniciusban
-github_username:  viniciusban
+# github_username:  viniciusban
 # instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
