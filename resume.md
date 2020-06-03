@@ -13,7 +13,7 @@ I develop systems for the web, with focus on the backend.
 
 I have worked in Telecom, Energy, Fintech, Inventory, Scientific research, and Health, for the government, big corporations and small startups.
 
-I am Brazilian and Brazilian Portuguese is my mother tongue. Contact me at viniciusban@gmail.com.
+I am Brazilian, and Brazilian Portuguese is my mother tongue. Contact me at viniciusban@gmail.com.
 
 
 ## Recent Projects ##
@@ -39,4 +39,4 @@ Main developer in a 2-people team of a **scientific research funding aggregator*
 - Author of the [Awesome Mess blog](https://awesomemess.com).
 - Speaker at technical events.
 - Some contributions to open source software in the paste, namely, Web2py webframework and Zurb Foundation for Sites.
-- Helped translating [Scrum and XP from the Trenches](https://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches/) and [Kanban and Scrum - Making the Most of Both](https://www.infoq.com/br/minibooks/kanban-scrum-minibook/)
+- Helped translate [Scrum and XP from the Trenches](https://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches/) and [Kanban and Scrum - Making the Most of Both](https://www.infoq.com/br/minibooks/kanban-scrum-minibook/) into Brazilian Portuguese.
