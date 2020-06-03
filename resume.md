@@ -13,7 +13,7 @@ I develop systems for the web, with focus on the backend.
 
 I have worked in Telecom, Energy, Fintech, Inventory, Scientific research, and Health, for the government, big corporations and small startups.
 
-Contact me at viniciusban@gmail.com
+I am Brazilian and Brazilian Portuguese is my mother tongue. Contact me at viniciusban@gmail.com.
 
 
 ## Recent Projects ##
