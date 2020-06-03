@@ -8,11 +8,11 @@ lang: pt_BR
 
 ## Resumo ##
 
-Eu desenvolvo sistemas para web, com foco no backend.
+5+ anos em Python, Django, shell script e bancos de dados SQL. Ultimamente tenho desenvolvido/consumido APIs REST.
 
-5+ anos em Python, Django, shell script e bancos de dados SQL. Ultimamente eu tenho desenvolvido/consumido APIs REST.
+Eu desenvolvo sistemas para web, com foco no backend. Já trabalhei em Telecom, Energia, Fintech, Estoque, Pesquisa científica, e Saúde, para entidades do Governo, grandes empresas e pequenas startups.
 
-Eu trabalhei em Telecom, Energia, Fintech, Estoque, Pesquisa científica, e Saúde, para entidades do Governo, grandes empresas e pequenas startups.
+Além disso, eu sou autor de um [blog técnico em inglês](https://awesomemess.com) e palestrante em conferências. Já contribuí com projetos open source e ajudei a traduzir 2 livros para o Português. Mais sobre isso, abaixo.
 
 Me comunico bem em Inglês escrito e falado. Entre em contato pelo endereço viniciusban@gmail.com.
 

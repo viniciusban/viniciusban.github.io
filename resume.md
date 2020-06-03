@@ -7,11 +7,11 @@ description: My professional experience
 
 ## Overview ##
 
-I develop systems for the web, with focus on the backend.
-
 5+ years in Python, Django, shell script and SQL databases. Lately I have been delivering/consuming REST APIs.
 
-I have worked in Telecom, Energy, Fintech, Inventory, Scientific research, and Health, for the government, big corporations and small startups.
+I develop systems for the web, with focus on the backend. I have worked in Telecom, Energy, Fintech, Inventory, Scientific research, and Health, for the government, big corporations and small startups.
+
+Also, I am the author of a [technical blog](https://awesomemess.com) and speaker at conferences. I made some contributions to open source software and helped translate 2 books into Brazilian Portuguese. More about this, below.
 
 I am Brazilian, and Brazilian Portuguese is my mother tongue. Contact me at viniciusban@gmail.com.
 
