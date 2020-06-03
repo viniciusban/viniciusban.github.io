@@ -6,193 +6,38 @@ description: Minha experiência profissional
 lang: pt_BR
 ---
 
-# Identificação
+## Resumo ##
 
-- Vinicius Belchior Assef Neto
+Eu desenvolvo sistemas para web, com foco no backend.
 
-- Contatos:
-  - email: viniciusban@gmail.com
-  - Telegram: <http://t.me/viniciusban>
+5+ anos em Python, Django, shell script e bancos de dados SQL. Ultimamente eu tenho desenvolvido/consumido APIs REST.
 
-- Perfis:
-  - Twitter: <http://twitter.com/viniciusban>
-  - Github: <http://github.com/viniciusban>
-  - Meu site pessoal: <http://viniciusban.com>
-  - Blog com textos técnicos: <http://awesomemess.com>
+I trabalhei em Telecom, Energia, Fintech, Estoque, Pesquisa científica, e Saúde, para entidades do Governo, grandes empresas e pequenas startups.
 
+Eu me comunico bem em Inglês escrito e falado. Entre em contato pelo endereço viniciusban@gmail.com.
 
-# Visão geral atual
 
-Estou atuando como desenvolvedor fullstack, com responsabilidade de interagir
-com usuários, levantar requisitos, projetar, implementar as soluções e
-implantá-las.
+## Projetos Recentes ##
 
-Linguagens:
+Eu escrevi parte do backend (Python, Pyramid, SQLAlchemy, Postgres, MongoDB, Redis e Celery tasks/beats) de um **sistema de discagem telefônica automática** para cobrança de débitos usando integração com PABX virtual, em uma equipe de 3 desenvolvedores. O sistema identificava automaticamente números de telefone "bons" e "ruins", mantendo o cadastro dos clientes atualizado. Além disso, aumentou a proporção de cobrança fazendo chamadas conforme a disponibiliade do cliente e reduziu a tempo de espera dos atendentes.
 
-- Python
-- Shell script
-- Javascript (pouco ainda, mas aprimorando)
-- HTML e CSS
+Único desenvolvedor de uma **biblioteca para encapsular três APIs de reserva de hotéis** para pesquisar e reservar acomodações, em Python. A biblioteca fornecia uma interface única que manipulava os 3 fornecedores, simplificando o código do sistema principal, liberando os desenvolvedores e permitindo que eles focassem na melhoria do sistema.
 
-Banco de dados: MySQL.
+Único desenvolvedor de um **registro de acidentes de trabalho** em Python e Django, para enviar as ocorrências automaticamente para o e-Social. O sistema eliminou papéis e burocracia, melhorando a acurácia e compartilhamento da informação pela empresa. Contando com um prazo bem curto, eu entreguei uma versão preliminar em 2 semanas, enquanto eu continuava a desenvolver o restante do sistema.
 
-Framework Python: Django.
+Principal desenvolvedor em uma equipe de 2 pessoas de um **agregador de fomentos de pesquisa científica**, em Python, Web2py, Scrapy e Postgres. O sistema otimizava o tempo dos pesquisadores entregando informações já filtradas em uma interface única e enviava notificações sempre que seus interesses em fomentos eram identificados.
 
-Métodos: Testes automatizados, princípios SOLID, Scrum.
 
-Idiomas:
+## Experiência Adicional ##
 
-- Inglês (leitura, escrita e conversação)
-- Espanhol (leitura e bem pouca conversação)
-- Hebraico (alfabetização)
-
-Formação: Tecnólogo em Análise e Desenvolvimento de Sistemas.
-
-Compartilhamento de informação: costumo ministrar palestras técnicas sobre Python, Django e arquitetura de sistemas.
-
-O que estou estudando/pretendo estudar em breve: Filas e mensageria, Infra (AWS, Docker), projeto de API (segurança, evolução, desempenho), Escalabilidade de processos.
-
-
-# Outros conhecimentos técnicos que tenho
-
-- Pyramid
-- Web2py
-- PHP
-- PostgreSQL
-- Elasticsearch
-- Redis
-- Docker
-
-
----
-
-
-# Experiências profissionais
-
-## 2014 até hoje: Fundação Oswaldo Cruz (terceirizado) - Rio de Janeiro
-
-A Fundação Oswaldo Cruz é um órgão federal, focado em pesquisa e divulgação científica, fabrica medicamentos e estabelece políticas de gestão pública de saúde no Brasil, além de atuar, por meio de convênios, em outros países da América do Sul e África.
-
-Migrando versão e customizando software de administração de repositório institucional para a Fiocruz. Tecnologias: Java, HTML, CSS, Javascript, shell script.
-
-Desenvolvendo sistema interno para o setor de recursos humanos, que automatiza processos internos, tramita documentos e avança atividades de fluxo de trabalho lendo e interpretando mensagens de email. Tecnologias e métodos: Python, Django, PostgreSQL, shell script, testes automatizados.
-
-Desenvolvendo sistema para captar documentos de produções científicas em fontes externas e automatizar a importação deles pelo repositório institucional da Fiocruz. Tecnologias: Python, Web2py, SQLite, web scrapping.
-
-Liderando equipe de desenvolvimento com 4 pessoas, treinando e dando apoio diário sobre Python, Django, TDD, arquitetura incremental e métodos ágeis.
-
-Conduzindo interação com usuários e levantamento de requisitos, especificando sistemas e desenvolvendo arquitetura de aplicações em conjunto com a equipe de infraestrutura.
-
-
-## A partir de fevereiro/2020: Associação Brasileira Rede Unida - Remoto
-
-Associação para formação de profissionais de saúde.
-
-Sistema interno para gerenciamento de evento. A partir dos trabalhos submetidos e aprovados pela banca avaliadora, pessoas inscritas no congresso receberão suas credenciais, suas declarações de participação no evento e saberão como e onde participar das reuniões. Tecnologias: Python, Django, MySQL.
-
-Estou trabalhando na construção de relatórios e rotinas de apoio interno, para viabilizar a organização e gerenciamento do evento.
-
-
-## 2018 até março/2020: Codevance - Remoto
-
-Empresa prestadora de serviços de desenvolvimento e manutenção de sistemas.
-
-Discador automático para clientes devedores. Com base em um movimento periódico e na disponibilidade dos atendentes de cobrança, fazemos interação com o PABX virtual para contactar o cliente e trabalhar a recuperação da dívida, obedecendo regras de prioridade e agendamento. Tecnologias e métodos: Python, Pyramid, SQLAlchemy, Celery, MongoDB, Redis, Docker, Scrum, Testes automatizados.
-
-Wrapper de API para reservas de hotel. Projeto para um fornecedor de reserva de viagens e hospedagem para clientes corporativos. Dada a entrada de um novo fornecedor de reserva de hotel, tratamos do encapsulamento das APIs para uniformizar a interação da aplicação. Tecnologias e métodos: Python, Testes automatizados, Scrum.
-
-
-## 2019: Gerasoft - Remoto
-
-Empresa desenvolvedora de sistemas.
-
-Projeto de interação com o e-Social do Governo Federal, módulo de Segurança do Trabalho. Cadastramento de acidentes do trabalho e interface com um integrador externo, que se comunica com o e-Social. Tecnologias: Python, Django e Postgres.
-
-
-## 2013 até 2014: LabSynapse - Rio de Janeiro
-
-Startup no setor científico.
-
-Desenvolvendo sistema para captura de editais de fomento científico em fontes nacionais e internacionais e publicação em plataforma de busca específica, atendendo pesquisadores em busca de financiamento de projetos. Tecnologias e métodos: Python, Web2py, PostgreSQL, webscrapping, shell script.
-
-Conduzindo reuniões para definição de produto e organizando sprints.
-
-
-## 2011 até 2013: Agência X4 - Rio de Janeiro
-
-Startup no setor de entretenimento.
-
-Desenvolvendo quiosque multimídia que interage com QR code, grava vídeos e faz upload para o Youtube. Tecnologias: Python, Web2py, shell script, SQLite, API do Youtube, API do Twitter.
-
-Liderando equipe de 3 desenvolvedores, estabelecendo padrões e métodos de trabalho, introduzindo métodos ágeis, coletando requisitos e definindo arquitetura de sistema.
-
-
-## 2010: Mutagem - Vitória (ES)
-
-Empresa do setor de internet, que desenvolve portais e serviços.
-
-Desenvolvendo sistema para site de busca em catálogo telefônico. Tecnologias: PHP, Sphinx Search.
-
-Desenvolvendo site para permitir torcedores de times de futebol interagirem através do Twitter. Tecnologias: PHP, MySQL, API do Twitter.
-
-Introduzindo métodos ágeis, liderando equipe de 3 desenvolvedores, levantando requisitos e definindo arquitetura do sistema.
-
-
-## 2009: Sea Tecnologia - Brasília
-
-Empresa evangelizadora de pensamento ágil no Brasil.
-
-Desenvolvendo sistema para coleta de informações veiculares para acompanhamento de manutenção de frota e disparo de alarme em caso de sinistro reportado pelo motorista. Tecnologias utilizadas: Python, Django, Javascript, API do Google Maps.
-
-Desenvolvendo sistema para cerca virtual de veículos, estabelecendo limites de posicionamento e envio de avisos de alerta para responsáveis. Tecnologias utilizadas: Python, Django, Javascript, API do Google Maps.
-
-Estabelecendo critérios para concorrência, seleção e certificação de fornecedores de hardware embarcados.
-
-
-## 1998 até 2008: Diversos setores - Vitória, Belo Horizonte, Brasília, São Paulo
-
-Empresas estatais e privadas dos setores de Telecom, Energia e Siderurgia.
-
-Participando de saneamento e migração de dados de plataforma mainframe para SAP no setor de energia. Tecnologias: Natural, Adabas.
-
-Desenvolvendo sistema de apuração de indicadores de continuidade de energia elétrica. Tecnologias: Natural, Adabas.
-
-Participando do desenvolvimento de sistemas para faturamento e arrecadação de contas telefônicas, mercado varejo. Tecnologias: Cobol, Natural, Adabas.
-
-Desenvolvendo sistema para registro e apuração de reclamações telefônicas, mercado varejo. Tecnologias: Natural, Adabas.
-
-Participando do desenvolvimento de sistema para gerência de rastreabilidade e manutenibilidade de equipamentos em estoque siderúrgico. Tecnologias: Natural, Adabas, Powerbuilder, Sybase, shell script.
-
-Desenvolvendo sistema para faturamento de grandes clientes, cliente Banco do Brasil, recebendo e enviando movimentos de arquivos para todas as operadoras de telecom envolvidas no consórcio. Tecnologias: Cobol, Natural, Adabas.
-
-Desenvolvendo sistema para controle de tesouraria de empresa de telecom. Tecnologias: Natural, Adabas.
-
-Desenvolvendo sistema para controle de sócios de clube. Tecnologias: Delphi, integração com roleta, sincronização com banco de dados remoto.
-
-Desenvolvendo sistema para emissão de contas telefônicas, clientes varejo e corporativo. Tecnologias: Natural, Adabas, Cobol.
-
-
-## Projetos pessoais e/ou voluntários
-
-Tradutor de artigos para o portal InfoQ Brasil.
-
-Tradutor de 2 livros sobre metodologias ágeis: 
-
-- Scrum e XP direto das trincheiras
-- Kanban e Scrum, obtendo o melhor de ambos
-
-Autor de blog sobre Python durante 10 anos http://aprendapython.com.br
-(extinto).
-
-Palestrante e instrutor em eventos da comunidade: Python Brasil e Python
-Sudeste.
-
-Contribuições com projetos open-source:
-
-- Web2py
-- ZURB Foundation for Sites
-
-Repositórios no github: <http://github.com/viniciusban>
-
-Editor de interface modo texto, escrito em C, gerando código fonte em Pascal e em C.
-
+- 30+ anos desenvolvendo sistemas corporativos.
+- Migração de dados de sistemas legados em mainframe para SAP.
+- Integração de sistemas usando arquivos/interfaces e rotinas agendadas.
+- Processamento e saneamento de dados em alto volume.
+- Modelagem de banco de dados.
+- Lean development.
+- Testes automáticos.
+- Autor do blog [Awesome Mess](https://awesomemess.com).
+- Palestrante em eventos técnicos.
+- Algumas contribuições para software open source, no passado. Especificamente, Web2py e Zurb Foundation for Sites.
+- Ajudei a traduzir os livros [Scrum e XP Direto das Trincheiras](https://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches/) e [Kanban e Scrum - obtendo o melhor de ambos](https://www.infoq.com/br/minibooks/kanban-scrum-minibook/) para Português.
