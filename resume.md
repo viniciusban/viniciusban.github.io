@@ -38,5 +38,5 @@ Main developer in a 2-people team of a **scientific research funding aggregator*
 - Automated tests.
 - Author of the [Awesome Mess blog](https://awesomemess.com).
 - Speaker at technical events.
-- Some contributions to open source software in the paste, namely, Web2py webframework and Zurb Foundation for Sites.
+- Some contributions to open source software in the past, namely, Web2py webframework and Zurb Foundation for Sites.
 - Helped translate [Scrum and XP from the Trenches](https://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches/) and [Kanban and Scrum - Making the Most of Both](https://www.infoq.com/br/minibooks/kanban-scrum-minibook/) into Brazilian Portuguese.
